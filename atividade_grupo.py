@@ -20,7 +20,7 @@ else:
 #Após a escolha da classe pergunte se ele utilizará um equipamento de curto ou longo alcance.
 #Imprima a classe + equipamento ao final
     
-equipamento = int(input("\n 1 = Equipamento de curto alcance \n 2 = Equipamento de longo alcance"))
+equipamento = int(input("\n 1 = Equipamento de curto alcance \n 2 = Equipamento de longo alcance \n"))
 
 if(equipamento == 1):
     Arma = "Curto Alcance"
